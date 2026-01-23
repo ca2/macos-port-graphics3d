@@ -2,10 +2,6 @@
 	path = assimp
 	url = ../../cpp-port/assimp
 	branch = main
-[submodule "glad"]
-	path = glad
-	url = ../glad_3.1
-	branch = main
 [submodule "ktx"]
 	path = ktx
 	url = ../../cpp-port/ktx
